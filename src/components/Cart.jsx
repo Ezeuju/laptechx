@@ -67,7 +67,7 @@ const Cart = ({cart, setCart}) => {
                                 <div className='info'>
                                 <h4>{curElm.Cat}</h4>
                                 <h3>{curElm.Title}</h3>
-                                <p>Price: ${curElm.Price}</p>
+                                <p>Price: {curElm.Price}</p>
                                 <div className='qty'>
                                     <button className='incqty' onClick={() => incqty(curElm)}>+</button>
                                     <input type='text' value={curElm.qty}></input>

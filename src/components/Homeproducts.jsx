@@ -13,56 +13,56 @@ const Homeproduct =
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "HP Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap4
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "HP Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap9
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "HP Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap12
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap23
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap41
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap73
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap83
     },
     {
         id: 1,
         Title: "HP 348 G4Storage 256gb SSD Memory 8gb Ram",
         Cat: "Laptop",
-        Price: "NGN 170000",
+        Price: "170000",
         Img: lap63
     },
 ]

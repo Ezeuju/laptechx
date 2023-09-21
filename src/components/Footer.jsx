@@ -40,7 +40,7 @@ const Footer = () => {
                     <li>Home</li>
                     <li>About</li>
                     <li>Contact</li>
-                    <li>Terma & Condition</li>
+                    <li>Terms & Condition</li>
                 </ul>
             </div>
         </div>

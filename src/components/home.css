@@ -114,12 +114,14 @@
     height: 90px;
     border-radius: 10px;
     cursor: pointer;
+    /* outline: 2px solid blue; */
 }
 .about .container .box .icon
 {
     color: #e44c8c;
     font-size: 32px;
     margin-top: 10px;
+    /* outline: 2px solid red; */
 }
 .about .container .box .detail
 {
@@ -162,6 +164,7 @@
     transition: 0.5s;
     cursor: pointer;
     border-radius: 5px;
+    /* outline: 2px solid red; */
 }
 .product .container .box:hover
 {
@@ -183,11 +186,12 @@
 {
     z-index: 1;
     position: relative;
-    right: 0;
+    right: -10%;
     display: flex;
     flex-direction: column;
     margin-top: 20px;
     transition: 0.5s;
+    /* outline: 2px solid red; */
 }
 .product .container .box .img_box:hover .icon
 {

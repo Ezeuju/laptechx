@@ -14,7 +14,7 @@ import lap63 from "../assets/lap63.png"
 import lap73 from "../assets/lap73.png"
 import lap83 from "../assets/lap83.png"
 import lap12 from "../assets/lap12.png"
-import lap23 from "../assets/lap23.png"
+// import lap23 from "../assets/lap23.png"
 import './home.css'
 const Home = ({detail, view, close, setClose, addtocart}) => {
   return (
@@ -50,7 +50,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
     <div className='top_banner'>
         <div className='container'>
             <div className='detail'>
-                <h2>The Best Note Book Colletion 2023</h2>
+                <h2>The Best Laptop Colletion 2023</h2>
                 <Link to='/product' className='link'>Shop Now <BsArrowRight /></Link>
             </div>
             <div className='img_box'>
@@ -170,7 +170,7 @@ const Home = ({detail, view, close, setClose, addtocart}) => {
         <Link to='/product' className='link'>Shop Now  <BsArrowRight /></Link>
       </div>
       <div className='img_box'>
-        <img src='./img/slider-img.png' alt='sliderimg'></img>
+        <img src={lap63} alt='sliderimg'></img>
       </div>
       </div>
     </div>
