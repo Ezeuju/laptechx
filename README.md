@@ -1,5 +1,1 @@
-Alx Frontend Specializtion Project
-Contributors:
-Ezechukwu Christiana Obianuju
-Nneeh Daniel
-Vincent Akpourhh
+This is an eccommerce website built on react
