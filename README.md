@@ -1,1 +1,1 @@
-This is an eccommerce website built on react
+This is an eccommerce website built on React
